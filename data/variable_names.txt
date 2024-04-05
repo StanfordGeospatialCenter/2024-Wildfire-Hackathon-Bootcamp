@@ -1,0 +1,2 @@
+VALUE0	# Housing Units, 2021
+VALUE1	# Total Population, 2021
