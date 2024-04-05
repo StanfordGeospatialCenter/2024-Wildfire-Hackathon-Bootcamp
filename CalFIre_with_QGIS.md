@@ -17,6 +17,7 @@
      - For `Select features in`: choose `CA_POP_HOUSING_TRACTS_fixed`.
      - For `that intersect features in`: choose the filtered `fire22_1 — firep22_1` layer.
    - Ensure the geometric predicate `intersect` is checked.
+   - In the Advanced Settings, check the option to Ignore Damages Geometries
    - Click `Run` to execute the selection. This selects census tracts that intersect with the fire perimeters from 2020 fires larger than 10,000 acres.
 
 4. **Generate Summary Statistics for Affected Housing Units and Population:**
